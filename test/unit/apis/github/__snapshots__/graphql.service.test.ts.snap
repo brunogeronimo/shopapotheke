@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GraphQL Service Should parse response properly 1`] = `
+Array [
+  Repository {
+    "createdAt": 2011-11-29T22:07:23.000Z,
+    "description": "A collection of JUnit rules for testing code which uses java.lang.System.",
+    "name": "system-rules",
+    "owner": "stefanbirkner",
+    "stars": 462,
+    "url": "https://github.com/stefanbirkner/system-rules",
+  },
+  Repository {
+    "createdAt": 2016-09-23T09:34:46.000Z,
+    "description": "依赖于 org.common.lang 的 java 工具库",
+    "name": "tool",
+    "owner": "OrsonEx",
+    "stars": 77,
+    "url": "https://github.com/OrsonEx/tool",
+  },
+  Repository {
+    "createdAt": 2014-11-18T08:12:22.000Z,
+    "description": "Better / faster proxy generator than java.lang.reflect.Proxy for Java (require 1.7)",
+    "name": "proxy2",
+    "owner": "forax",
+    "stars": 55,
+    "url": "https://github.com/forax/proxy2",
+  },
+  Repository {
+    "createdAt": 2015-01-16T11:58:20.000Z,
+    "description": "Utilize Java Agents and ASM to modify then override Java SE classes. (In this case blocking java.lang.Runtime.exec)",
+    "name": "JVM-Sandbox",
+    "owner": "Konloch",
+    "stars": 35,
+    "url": "https://github.com/Konloch/JVM-Sandbox",
+  },
+  Repository {
+    "createdAt": 2015-05-04T11:33:14.000Z,
+    "description": "🍋 FFI example for accessing Rust lang dynamic libraries from java ",
+    "name": "java-rust-ffi",
+    "owner": "sureshg",
+    "stars": 30,
+    "url": "https://github.com/sureshg/java-rust-ffi",
+  },
+]
+`;

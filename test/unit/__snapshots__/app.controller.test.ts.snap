@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppController /repositories route Should return a valid response 1`] = `
+Array [
+  Repository {
+    "createdAt": 2016-09-23T09:34:46.000Z,
+    "description": "依赖于 org.common.lang 的 java 工具库",
+    "name": "tool",
+    "owner": "OrsonEx",
+    "stars": 77,
+    "url": "https://github.com/OrsonEx/tool",
+  },
+]
+`;
+
+exports[`AppController /repositories route Should return error if filter is blank" 1`] = `[Error: At least one filter has to be set.]`;

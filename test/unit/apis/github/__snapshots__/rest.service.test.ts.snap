@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REST Service Should parse response properly 1`] = `
+Array [
+  Repository {
+    "createdAt": 2011-11-29T22:07:23.000Z,
+    "description": "A collection of JUnit rules for testing code which uses java.lang.System.",
+    "name": "system-rules",
+    "owner": "stefanbirkner",
+    "stars": 462,
+    "url": "https://api.github.com/repos/stefanbirkner/system-rules",
+  },
+  Repository {
+    "createdAt": 2016-09-23T09:34:46.000Z,
+    "description": "依赖于 org.common.lang 的 java 工具库",
+    "name": "tool",
+    "owner": "OrsonEx",
+    "stars": 77,
+    "url": "https://api.github.com/repos/OrsonEx/tool",
+  },
+  Repository {
+    "createdAt": 2014-11-18T08:12:22.000Z,
+    "description": "Better / faster proxy generator than java.lang.reflect.Proxy for Java (require 1.7)",
+    "name": "proxy2",
+    "owner": "forax",
+    "stars": 55,
+    "url": "https://api.github.com/repos/forax/proxy2",
+  },
+  Repository {
+    "createdAt": 2015-01-16T11:58:20.000Z,
+    "description": "Utilize Java Agents and ASM to modify then override Java SE classes. (In this case blocking java.lang.Runtime.exec)",
+    "name": "JVM-Sandbox",
+    "owner": "Konloch",
+    "stars": 35,
+    "url": "https://api.github.com/repos/Konloch/JVM-Sandbox",
+  },
+  Repository {
+    "createdAt": 2015-05-04T11:33:14.000Z,
+    "description": "🍋 FFI example for accessing Rust lang dynamic libraries from java ",
+    "name": "java-rust-ffi",
+    "owner": "sureshg",
+    "stars": 30,
+    "url": "https://api.github.com/repos/sureshg/java-rust-ffi",
+  },
+  Repository {
+    "createdAt": 2016-03-08T20:36:00.000Z,
+    "description": "System Lambda is a collection of functions for testing code that uses java.lang.System",
+    "name": "system-lambda",
+    "owner": "stefanbirkner",
+    "stars": 30,
+    "url": "https://api.github.com/repos/stefanbirkner/system-lambda",
+  },
+  Repository {
+    "createdAt": 2014-02-13T04:07:22.000Z,
+    "description": "Pojomatic provides configurable implementations of the equals(Object), hashCode() and toString() methods inherited from java.lang.Object.",
+    "name": "pojomatic",
+    "owner": "irobertson",
+    "stars": 27,
+    "url": "https://api.github.com/repos/irobertson/pojomatic",
+  },
+  Repository {
+    "createdAt": 2016-05-26T02:25:33.000Z,
+    "description": "实例详解 java.lang.OutOfMemoryError",
+    "name": "outofmemoryerror",
+    "owner": "cncounter",
+    "stars": 25,
+    "url": "https://api.github.com/repos/cncounter/outofmemoryerror",
+  },
+  Repository {
+    "createdAt": 2018-05-28T13:47:42.000Z,
+    "description": "Experiments for \\"Enough java.lang.String to Hang Ourselves ...\\"",
+    "name": "string-performance",
+    "owner": "kabutz",
+    "stars": 22,
+    "url": "https://api.github.com/repos/kabutz/string-performance",
+  },
+  Repository {
+    "createdAt": 2018-08-10T06:40:05.000Z,
+    "description": "TypeScript Enum like java.lang.Enum",
+    "name": "ts-jenum",
+    "owner": "reforms",
+    "stars": 20,
+    "url": "https://api.github.com/repos/reforms/ts-jenum",
+  },
+]
+`;
