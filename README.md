@@ -31,3 +31,11 @@ the `GITHUB_TOKEN` variable. If one of these conditions are not valid, the `REST
 # Additional Links
 * GitHub REST API documenation: https://developer.github.com/v3/
 * GitHub GraphQL API documentation: https://developer.github.com/v4/
+
+# How to start
+## Via docker-compose
+* Check the variables in the `docker-compose.yml` file and change them if needed
+* Run `docker-compose up`
+
+## Via docker image
+* Run the following command: `docker run -ePORT=3000 -p3000:3000 -it brunogeronimo/shopapotheke:latest`
