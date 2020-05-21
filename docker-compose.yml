@@ -1,0 +1,15 @@
+version: "3.4"
+services:
+  app:
+    build:
+      context: .
+      target: base
+    environment:
+      - PORT=3000
+      - GITHUB_API_VERSION=
+      - GITHUB_TOKEN=
+    volumes:
+      - ./:/app
+    ports:
+      - 3000:3000
+      - 5858:5858
