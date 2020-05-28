@@ -48,7 +48,7 @@ export class RestService implements GithubService {
               name: item.name,
               owner: item.owner.login,
               stars: item.stargazers_count,
-              url: item.url
+              url: item.html_url
             })
           });
 

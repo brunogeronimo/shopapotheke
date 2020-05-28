@@ -8,7 +8,7 @@ Array [
     "name": "system-rules",
     "owner": "stefanbirkner",
     "stars": 462,
-    "url": "https://api.github.com/repos/stefanbirkner/system-rules",
+    "url": "https://github.com/stefanbirkner/system-rules",
   },
   Repository {
     "createdAt": 2016-09-23T09:34:46.000Z,
@@ -16,7 +16,7 @@ Array [
     "name": "tool",
     "owner": "OrsonEx",
     "stars": 77,
-    "url": "https://api.github.com/repos/OrsonEx/tool",
+    "url": "https://github.com/OrsonEx/tool",
   },
   Repository {
     "createdAt": 2014-11-18T08:12:22.000Z,
@@ -24,7 +24,7 @@ Array [
     "name": "proxy2",
     "owner": "forax",
     "stars": 55,
-    "url": "https://api.github.com/repos/forax/proxy2",
+    "url": "https://github.com/forax/proxy2",
   },
   Repository {
     "createdAt": 2015-01-16T11:58:20.000Z,
@@ -32,7 +32,7 @@ Array [
     "name": "JVM-Sandbox",
     "owner": "Konloch",
     "stars": 35,
-    "url": "https://api.github.com/repos/Konloch/JVM-Sandbox",
+    "url": "https://github.com/Konloch/JVM-Sandbox",
   },
   Repository {
     "createdAt": 2015-05-04T11:33:14.000Z,
@@ -40,7 +40,7 @@ Array [
     "name": "java-rust-ffi",
     "owner": "sureshg",
     "stars": 30,
-    "url": "https://api.github.com/repos/sureshg/java-rust-ffi",
+    "url": "https://github.com/sureshg/java-rust-ffi",
   },
   Repository {
     "createdAt": 2016-03-08T20:36:00.000Z,
@@ -48,7 +48,7 @@ Array [
     "name": "system-lambda",
     "owner": "stefanbirkner",
     "stars": 30,
-    "url": "https://api.github.com/repos/stefanbirkner/system-lambda",
+    "url": "https://github.com/stefanbirkner/system-lambda",
   },
   Repository {
     "createdAt": 2014-02-13T04:07:22.000Z,
@@ -56,7 +56,7 @@ Array [
     "name": "pojomatic",
     "owner": "irobertson",
     "stars": 27,
-    "url": "https://api.github.com/repos/irobertson/pojomatic",
+    "url": "https://github.com/irobertson/pojomatic",
   },
   Repository {
     "createdAt": 2016-05-26T02:25:33.000Z,
@@ -64,7 +64,7 @@ Array [
     "name": "outofmemoryerror",
     "owner": "cncounter",
     "stars": 25,
-    "url": "https://api.github.com/repos/cncounter/outofmemoryerror",
+    "url": "https://github.com/cncounter/outofmemoryerror",
   },
   Repository {
     "createdAt": 2018-05-28T13:47:42.000Z,
@@ -72,7 +72,7 @@ Array [
     "name": "string-performance",
     "owner": "kabutz",
     "stars": 22,
-    "url": "https://api.github.com/repos/kabutz/string-performance",
+    "url": "https://github.com/kabutz/string-performance",
   },
   Repository {
     "createdAt": 2018-08-10T06:40:05.000Z,
@@ -80,7 +80,7 @@ Array [
     "name": "ts-jenum",
     "owner": "reforms",
     "stars": 20,
-    "url": "https://api.github.com/repos/reforms/ts-jenum",
+    "url": "https://github.com/reforms/ts-jenum",
   },
 ]
 `;
